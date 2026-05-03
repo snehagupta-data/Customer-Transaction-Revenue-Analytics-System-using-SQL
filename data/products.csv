@@ -1,0 +1,501 @@
+product_id,product_name,category,price
+1,Smartphone,Electronics,34677.35
+2,Laptop,Electronics,17725.08
+3,Tablet,Electronics,14962.7
+4,Wireless Earbuds,Electronics,22429.97
+5,Bluetooth Speaker,Electronics,10297.65
+6,Smart Watch,Electronics,4261.55
+7,USB-C Hub,Electronics,8601.16
+8,Webcam HD,Electronics,9241.5
+9,Mechanical Keyboard,Electronics,17711.37
+10,Gaming Mouse,Electronics,23870.67
+11,LED Monitor,Electronics,9158.7
+12,Portable SSD,Electronics,22508.83
+13,Power Bank 20000mAh,Electronics,16584.54
+14,Smart Bulb,Electronics,16946.27
+15,WiFi Router,Electronics,12122.93
+16,Action Camera,Electronics,9709.22
+17,DSLR Camera,Electronics,8797.3
+18,Noise Cancelling Headphones,Electronics,13880.68
+19,Smart TV 43inch,Electronics,14464.54
+20,Dash Cam,Electronics,32845.32
+21,Men Formal Shirt,Fashion,2544.03
+22,Women Kurta,Fashion,2620.27
+23,Denim Jeans,Fashion,1953.5
+24,Sports Sneakers,Fashion,6340.28
+25,Leather Belt,Fashion,2324.28
+26,Silk Saree,Fashion,2642.79
+27,Casual T-Shirt,Fashion,2188.31
+28,Ankle Boots,Fashion,1775.64
+29,Handbag,Fashion,4893.57
+30,Sunglasses,Fashion,1403.58
+31,Winter Jacket,Fashion,6732.13
+32,Yoga Pants,Fashion,1685.29
+33,Formal Trousers,Fashion,1698.73
+34,Cotton Dupatta,Fashion,2001.65
+35,Wristwatch Classic,Fashion,3479.16
+36,Basmati Rice 5kg,Grocery,183.94
+37,Toor Dal 1kg,Grocery,655.73
+38,Sunflower Oil 1L,Grocery,138.12
+39,Amul Butter 500g,Grocery,101.58
+40,Organic Honey 500g,Grocery,273.41
+41,Green Tea 100bags,Grocery,447.24
+42,Turmeric Powder 200g,Grocery,735.22
+43,Almonds 500g,Grocery,505.11
+44,Oats 1kg,Grocery,366.47
+45,Wheat Flour 10kg,Grocery,900
+46,Coconut Oil 1L,Grocery,469.03
+47,Mixed Nuts 250g,Grocery,548.86
+48,Coffee Powder 200g,Grocery,378.3
+49,Chickpeas 1kg,Grocery,328.53
+50,Dark Chocolate 100g,Grocery,93.07
+51,Non-Stick Cookware Set,Home,27826.06
+52,Vacuum Cleaner,Home,2993.54
+53,Air Purifier,Home,29275.63
+54,Bedsheet King Size,Home,16352.14
+55,Curtains Set,Home,17734.48
+56,Ceiling Fan,Home,19981.25
+57,Water Purifier RO,Home,27928.76
+58,Mixer Grinder,Home,35000
+59,Iron Box Steam,Home,11291.07
+60,Pressure Cooker 5L,Home,5362.02
+61,Sofa 3-Seater,Home,19565.56
+62,Dining Table Set,Home,3741.68
+63,Wall Clock Wooden,Home,28194.3
+64,Photo Frame Set,Home,8779.95
+65,Floor Lamp,Home,11403.41
+66,Cricket Bat Kasheer Willow,Sports,6585.97
+67,Football Size 5,Sports,5967.01
+68,Badminton Racket Set,Sports,10754.92
+69,Yoga Mat Anti-Slip,Sports,4644.01
+70,Dumbbells 5kg Pair,Sports,8056.45
+71,Cycling Helmet,Sports,9977.4
+72,Swimming Goggles,Sports,6075.46
+73,Treadmill Home,Sports,5002.56
+74,Protein Whey 1kg,Sports,21497.34
+75,Resistance Bands Set,Sports,12640.62
+76,Tennis Racket,Sports,14095.75
+77,Skipping Rope,Sports,21229.02
+78,Face Wash Neem,Beauty,759.83
+79,Moisturizer SPF50,Beauty,900.32
+80,Lipstick Set 6,Beauty,311.0
+81,Hair Oil Coconut,Beauty,880.79
+82,Perfume Floral 100ml,Beauty,1121.7
+83,Foundation Liquid,Beauty,1978.56
+84,Eyeshadow Palette,Beauty,430.57
+85,Sunscreen SPF70,Beauty,1073.28
+86,Serum Vitamin C,Beauty,862.78
+87,Shampoo Anti-Dandruff,Beauty,291.42
+88,Nail Polish Set,Beauty,855.25
+89,BB Cream,Beauty,1909.21
+90,Smartphone Mini,Electronics,8872.42
+91,Laptop Ultra,Electronics,11957.95
+92,Tablet Classic,Electronics,12304.77
+93,Wireless Earbuds Plus,Electronics,16266.25
+94,Bluetooth Speaker Pro,Electronics,19360.44
+95,Smart Watch Gold,Electronics,23674.7
+96,USB-C Hub Ultra,Electronics,36229.68
+97,Webcam HD Lite,Electronics,27969.04
+98,Mechanical Keyboard Lite,Electronics,34535.36
+99,Gaming Mouse Pro,Electronics,9318.18
+100,LED Monitor Deluxe,Electronics,11270.0
+101,Portable SSD Mini,Electronics,19115.87
+102,Power Bank 20000mAh Silver,Electronics,12971.1
+103,Smart Bulb Classic,Electronics,14297.35
+104,WiFi Router Mini,Electronics,25666.06
+105,Action Camera Gold,Electronics,38886.67
+106,DSLR Camera Elite,Electronics,50000
+107,Noise Cancelling Headphones Eco,Electronics,14576.99
+108,Smart TV 43inch Eco,Electronics,7977.06
+109,Dash Cam Premium,Electronics,14173.9
+110,Men Formal Shirt Eco,Fashion,5108.06
+111,Women Kurta Premium,Fashion,4338.03
+112,Denim Jeans Eco,Fashion,2897.56
+113,Sports Sneakers Max,Fashion,825.74
+114,Leather Belt Mini,Fashion,2831.29
+115,Silk Saree Mini,Fashion,1814.86
+116,Casual T-Shirt Eco,Fashion,5991.13
+117,Ankle Boots Classic,Fashion,1368.9
+118,Handbag Premium,Fashion,2149.56
+119,Sunglasses HD,Fashion,2649.03
+120,Winter Jacket Silver,Fashion,2889.14
+121,Yoga Pants Lite,Fashion,8000
+122,Formal Trousers Mini,Fashion,1957.42
+123,Cotton Dupatta Deluxe,Fashion,1808.22
+124,Wristwatch Classic Pro,Fashion,1975.05
+125,Basmati Rice 5kg Deluxe,Grocery,277.93
+126,Toor Dal 1kg Pro,Grocery,204.88
+127,Sunflower Oil 1L Lite,Grocery,486.76
+128,Amul Butter 500g Eco,Grocery,222.38
+129,Organic Honey 500g Deluxe,Grocery,600.53
+130,Green Tea 100bags Plus,Grocery,292.13
+131,Turmeric Powder 200g Gold,Grocery,284.05
+132,Almonds 500g Smart,Grocery,900
+133,Oats 1kg Gold,Grocery,210.01
+134,Wheat Flour 10kg Max,Grocery,577.15
+135,Coconut Oil 1L Gold,Grocery,900
+136,Mixed Nuts 250g Pro,Grocery,178.88
+137,Coffee Powder 200g Eco,Grocery,233.47
+138,Chickpeas 1kg Premium,Grocery,144.35
+139,Dark Chocolate 100g Lite,Grocery,183.35
+140,Non-Stick Cookware Set Silver,Home,18949.01
+141,Vacuum Cleaner Elite,Home,17970.71
+142,Air Purifier HD,Home,26503.61
+143,Bedsheet King Size Silver,Home,20735.16
+144,Curtains Set Smart,Home,17440.48
+145,Ceiling Fan Eco,Home,13813.96
+146,Water Purifier RO Premium,Home,11093.3
+147,Mixer Grinder Ultra,Home,9471.35
+148,Iron Box Steam Gold,Home,21169.22
+149,Pressure Cooker 5L Deluxe,Home,17697.97
+150,Sofa 3-Seater Deluxe,Home,9042.13
+151,Dining Table Set Elite,Home,24875.27
+152,Wall Clock Wooden Gold,Home,26901.04
+153,Photo Frame Set Elite,Home,7680.91
+154,Floor Lamp Deluxe,Home,15842.12
+155,Cricket Bat Kasheer Willow Smart,Sports,11311.07
+156,Football Size 5 Deluxe,Sports,3874.18
+157,Badminton Racket Set Eco,Sports,6965.15
+158,Yoga Mat Anti-Slip Smart,Sports,25000
+159,Dumbbells 5kg Pair Classic,Sports,13356.73
+160,Cycling Helmet Deluxe,Sports,14632.63
+161,Swimming Goggles Elite,Sports,13026.07
+162,Treadmill Home Plus,Sports,10081.01
+163,Protein Whey 1kg Elite,Sports,10850.72
+164,Resistance Bands Set Ultra,Sports,7356.63
+165,Tennis Racket Plus,Sports,13398.88
+166,Skipping Rope Lite,Sports,22771.09
+167,Face Wash Neem Classic,Beauty,615.97
+168,Moisturizer SPF50 Elite,Beauty,444.17
+169,Lipstick Set 6 Premium,Beauty,1178.42
+170,Hair Oil Coconut Silver,Beauty,1531.9
+171,Perfume Floral 100ml Pro,Beauty,1338.92
+172,Foundation Liquid Pro,Beauty,3000
+173,Eyeshadow Palette Max,Beauty,552.18
+174,Sunscreen SPF70 Silver,Beauty,427.71
+175,Serum Vitamin C Classic,Beauty,845.6
+176,Shampoo Anti-Dandruff Pro,Beauty,1657.41
+177,Nail Polish Set Ultra,Beauty,1851.38
+178,BB Cream Max,Beauty,581.99
+179,Smartphone Pro,Electronics,50000
+180,Laptop Eco,Electronics,35065.64
+181,Tablet Silver,Electronics,24487.69
+182,Wireless Earbuds Plus,Electronics,29824.06
+183,Bluetooth Speaker Classic,Electronics,8782.23
+184,Smart Watch Smart,Electronics,44066.12
+185,USB-C Hub Max,Electronics,21487.25
+186,Webcam HD Eco,Electronics,13326.19
+187,Mechanical Keyboard Mini,Electronics,20633.33
+188,Gaming Mouse Deluxe,Electronics,16956.64
+189,LED Monitor Classic,Electronics,18659.18
+190,Portable SSD Plus,Electronics,31409.85
+191,Power Bank 20000mAh Gold,Electronics,13771.82
+192,Smart Bulb Gold,Electronics,26367.32
+193,WiFi Router Classic,Electronics,17159.75
+194,Action Camera Gold,Electronics,5545.18
+195,DSLR Camera Premium,Electronics,40390.35
+196,Noise Cancelling Headphones Mini,Electronics,50000
+197,Smart TV 43inch Ultra,Electronics,10443.39
+198,Dash Cam Smart,Electronics,50000
+199,Men Formal Shirt Eco,Fashion,540.36
+200,Women Kurta Plus,Fashion,4760.25
+201,Denim Jeans Premium,Fashion,1939.91
+202,Sports Sneakers Lite,Fashion,2800.06
+203,Leather Belt Classic,Fashion,5219.68
+204,Silk Saree HD,Fashion,1325.0
+205,Casual T-Shirt Silver,Fashion,1268.15
+206,Ankle Boots Silver,Fashion,3033.7
+207,Handbag Classic,Fashion,1217.82
+208,Sunglasses Ultra,Fashion,4925.65
+209,Winter Jacket Classic,Fashion,1885.7
+210,Yoga Pants Plus,Fashion,1005.47
+211,Formal Trousers Gold,Fashion,4831.8
+212,Cotton Dupatta HD,Fashion,2597.27
+213,Wristwatch Classic Mini,Fashion,2303.15
+214,Basmati Rice 5kg HD,Grocery,467.88
+215,Toor Dal 1kg Lite,Grocery,188.33
+216,Sunflower Oil 1L Silver,Grocery,112.65
+217,Amul Butter 500g HD,Grocery,152.93
+218,Organic Honey 500g Eco,Grocery,900
+219,Green Tea 100bags Silver,Grocery,505.93
+220,Turmeric Powder 200g HD,Grocery,270.17
+221,Almonds 500g Pro,Grocery,308.16
+222,Oats 1kg Elite,Grocery,192.9
+223,Wheat Flour 10kg Elite,Grocery,90.19
+224,Coconut Oil 1L Pro,Grocery,333.02
+225,Mixed Nuts 250g HD,Grocery,127.82
+226,Coffee Powder 200g Lite,Grocery,412.6
+227,Chickpeas 1kg Gold,Grocery,326.7
+228,Dark Chocolate 100g Elite,Grocery,140.1
+229,Non-Stick Cookware Set Pro,Home,3928.66
+230,Vacuum Cleaner Premium,Home,12366.7
+231,Air Purifier Ultra,Home,7461.11
+232,Bedsheet King Size Plus,Home,3338.76
+233,Curtains Set Ultra,Home,30351.17
+234,Ceiling Fan Pro,Home,6527.62
+235,Water Purifier RO Pro,Home,1992.97
+236,Mixer Grinder Max,Home,11545.89
+237,Iron Box Steam Deluxe,Home,18867.27
+238,Pressure Cooker 5L Ultra,Home,14681.96
+239,Sofa 3-Seater Ultra,Home,10023.73
+240,Dining Table Set Gold,Home,12159.69
+241,Wall Clock Wooden Lite,Home,15742.11
+242,Photo Frame Set Smart,Home,9027.92
+243,Floor Lamp Classic,Home,18222.86
+244,Cricket Bat Kasheer Willow Smart,Sports,5240.81
+245,Football Size 5 Classic,Sports,13543.02
+246,Badminton Racket Set Pro,Sports,3912.66
+247,Yoga Mat Anti-Slip Gold,Sports,15907.01
+248,Dumbbells 5kg Pair Eco,Sports,11609.81
+249,Cycling Helmet Classic,Sports,10487.45
+250,Swimming Goggles Mini,Sports,10561.83
+251,Treadmill Home Smart,Sports,16000.84
+252,Protein Whey 1kg Ultra,Sports,11090.29
+253,Resistance Bands Set Elite,Sports,8858.05
+254,Tennis Racket Gold,Sports,5617.96
+255,Skipping Rope Max,Sports,8787.66
+256,Face Wash Neem Classic,Beauty,983.83
+257,Moisturizer SPF50 Classic,Beauty,446.65
+258,Lipstick Set 6 Eco,Beauty,1905.88
+259,Hair Oil Coconut Eco,Beauty,730.92
+260,Perfume Floral 100ml Lite,Beauty,706.83
+261,Foundation Liquid Eco,Beauty,857.73
+262,Eyeshadow Palette Classic,Beauty,1504.97
+263,Sunscreen SPF70 Premium,Beauty,2358.02
+264,Serum Vitamin C Silver,Beauty,2707.16
+265,Shampoo Anti-Dandruff Gold,Beauty,1062.33
+266,Nail Polish Set Smart,Beauty,898.55
+267,BB Cream Ultra,Beauty,1354.18
+268,Smartphone Premium,Electronics,13928.26
+269,Laptop Deluxe,Electronics,6626.47
+270,Tablet Silver,Electronics,22737.05
+271,Wireless Earbuds Premium,Electronics,15294.71
+272,Bluetooth Speaker Classic,Electronics,18128.34
+273,Smart Watch Premium,Electronics,24601.67
+274,USB-C Hub Classic,Electronics,31035.42
+275,Webcam HD Mini,Electronics,31023.43
+276,Mechanical Keyboard Mini,Electronics,10580.02
+277,Gaming Mouse Ultra,Electronics,35532.41
+278,LED Monitor Elite,Electronics,9610.18
+279,Portable SSD Deluxe,Electronics,20526.94
+280,Power Bank 20000mAh Smart,Electronics,16545.03
+281,Smart Bulb Eco,Electronics,13616.88
+282,WiFi Router Silver,Electronics,14464.57
+283,Action Camera Plus,Electronics,31259.42
+284,DSLR Camera Pro,Electronics,4714.92
+285,Noise Cancelling Headphones Pro,Electronics,30900.82
+286,Smart TV 43inch HD,Electronics,5821.29
+287,Dash Cam Premium,Electronics,31841.09
+288,Men Formal Shirt Max,Fashion,774.66
+289,Women Kurta Premium,Fashion,4123.12
+290,Denim Jeans Smart,Fashion,1665.41
+291,Sports Sneakers Gold,Fashion,668.12
+292,Leather Belt Deluxe,Fashion,3771.63
+293,Silk Saree Plus,Fashion,7738.47
+294,Casual T-Shirt Silver,Fashion,814.0
+295,Ankle Boots Deluxe,Fashion,4092.41
+296,Handbag HD,Fashion,2925.01
+297,Sunglasses Lite,Fashion,3319.34
+298,Winter Jacket Silver,Fashion,1845.23
+299,Yoga Pants Premium,Fashion,3032.44
+300,Formal Trousers Silver,Fashion,2882.71
+301,Cotton Dupatta HD,Fashion,1670.82
+302,Wristwatch Classic Ultra,Fashion,4841.81
+303,Basmati Rice 5kg Smart,Grocery,278.88
+304,Toor Dal 1kg Lite,Grocery,581.58
+305,Sunflower Oil 1L Ultra,Grocery,157.98
+306,Amul Butter 500g Ultra,Grocery,316.58
+307,Organic Honey 500g HD,Grocery,191.08
+308,Green Tea 100bags Max,Grocery,519.19
+309,Turmeric Powder 200g Pro,Grocery,91.46
+310,Almonds 500g Deluxe,Grocery,396.49
+311,Oats 1kg Ultra,Grocery,227.83
+312,Wheat Flour 10kg Plus,Grocery,253.08
+313,Coconut Oil 1L Silver,Grocery,226.0
+314,Mixed Nuts 250g Silver,Grocery,161.66
+315,Coffee Powder 200g Plus,Grocery,355.69
+316,Chickpeas 1kg Premium,Grocery,713.18
+317,Dark Chocolate 100g Gold,Grocery,443.82
+318,Non-Stick Cookware Set Classic,Home,8959.48
+319,Vacuum Cleaner Gold,Home,17463.63
+320,Air Purifier Gold,Home,14853.16
+321,Bedsheet King Size Elite,Home,12996.4
+322,Curtains Set Elite,Home,7980.16
+323,Ceiling Fan HD,Home,12732.42
+324,Water Purifier RO HD,Home,9966.18
+325,Mixer Grinder Gold,Home,7293.93
+326,Iron Box Steam Elite,Home,20567.74
+327,Pressure Cooker 5L HD,Home,8152.58
+328,Sofa 3-Seater Pro,Home,11419.21
+329,Dining Table Set Deluxe,Home,11058.82
+330,Wall Clock Wooden Max,Home,12491.22
+331,Photo Frame Set Plus,Home,11190.72
+332,Floor Lamp Deluxe,Home,16646.39
+333,Cricket Bat Kasheer Willow Mini,Sports,6417.07
+334,Football Size 5 Silver,Sports,13028.3
+335,Badminton Racket Set Ultra,Sports,6872.2
+336,Yoga Mat Anti-Slip Eco,Sports,14837.89
+337,Dumbbells 5kg Pair Premium,Sports,25000
+338,Cycling Helmet Silver,Sports,6964.46
+339,Swimming Goggles Lite,Sports,8023.01
+340,Treadmill Home Elite,Sports,6745.99
+341,Protein Whey 1kg Ultra,Sports,2621.08
+342,Resistance Bands Set Mini,Sports,9894.74
+343,Tennis Racket Lite,Sports,3238.53
+344,Skipping Rope Gold,Sports,3783.12
+345,Face Wash Neem HD,Beauty,3000
+346,Moisturizer SPF50 Gold,Beauty,1601.72
+347,Lipstick Set 6 Max,Beauty,1999.82
+348,Hair Oil Coconut Ultra,Beauty,2005.77
+349,Perfume Floral 100ml Plus,Beauty,986.66
+350,Foundation Liquid Silver,Beauty,919.74
+351,Eyeshadow Palette Lite,Beauty,2067.74
+352,Sunscreen SPF70 Deluxe,Beauty,1384.15
+353,Serum Vitamin C Ultra,Beauty,597.73
+354,Shampoo Anti-Dandruff Ultra,Beauty,1220.04
+355,Nail Polish Set Eco,Beauty,1160.67
+356,BB Cream Mini,Beauty,2836.48
+357,Smartphone Ultra,Electronics,39584.5
+358,Laptop Eco,Electronics,13017.07
+359,Tablet Ultra,Electronics,10701.59
+360,Wireless Earbuds Elite,Electronics,8719.23
+361,Bluetooth Speaker Elite,Electronics,50000
+362,Smart Watch Deluxe,Electronics,18306.4
+363,USB-C Hub Premium,Electronics,9568.23
+364,Webcam HD Pro,Electronics,18385.97
+365,Mechanical Keyboard Deluxe,Electronics,17034.43
+366,Gaming Mouse Max,Electronics,8533.32
+367,LED Monitor Deluxe,Electronics,32449.81
+368,Portable SSD Eco,Electronics,50000
+369,Power Bank 20000mAh Plus,Electronics,9391.64
+370,Smart Bulb Pro,Electronics,34385.52
+371,WiFi Router Smart,Electronics,11200.94
+372,Action Camera Gold,Electronics,25142.63
+373,DSLR Camera HD,Electronics,14843.7
+374,Noise Cancelling Headphones Ultra,Electronics,35447.21
+375,Smart TV 43inch Plus,Electronics,19514.36
+376,Dash Cam Gold,Electronics,22484.56
+377,Men Formal Shirt Gold,Fashion,2403.96
+378,Women Kurta Eco,Fashion,4663.76
+379,Denim Jeans Plus,Fashion,3900.64
+380,Sports Sneakers Deluxe,Fashion,6249.97
+381,Leather Belt Gold,Fashion,3111.86
+382,Silk Saree Ultra,Fashion,3324.0
+383,Casual T-Shirt Lite,Fashion,3988.75
+384,Ankle Boots Max,Fashion,1060.07
+385,Handbag Deluxe,Fashion,1009.57
+386,Sunglasses Plus,Fashion,8000
+387,Winter Jacket Ultra,Fashion,2426.16
+388,Yoga Pants Deluxe,Fashion,3966.77
+389,Formal Trousers Premium,Fashion,943.01
+390,Cotton Dupatta Elite,Fashion,2724.41
+391,Wristwatch Classic Smart,Fashion,3884.92
+392,Basmati Rice 5kg Lite,Grocery,179.79
+393,Toor Dal 1kg HD,Grocery,599.05
+394,Sunflower Oil 1L Premium,Grocery,301.53
+395,Amul Butter 500g HD,Grocery,267.68
+396,Organic Honey 500g Deluxe,Grocery,491.65
+397,Green Tea 100bags Lite,Grocery,66.98
+398,Turmeric Powder 200g Silver,Grocery,396.12
+399,Almonds 500g Deluxe,Grocery,306.42
+400,Oats 1kg Ultra,Grocery,223.98
+401,Wheat Flour 10kg Deluxe,Grocery,443.46
+402,Coconut Oil 1L Ultra,Grocery,609.88
+403,Mixed Nuts 250g Deluxe,Grocery,760.49
+404,Coffee Powder 200g Premium,Grocery,224.65
+405,Chickpeas 1kg Pro,Grocery,839.61
+406,Dark Chocolate 100g Plus,Grocery,377.21
+407,Non-Stick Cookware Set Elite,Home,11212.87
+408,Vacuum Cleaner Mini,Home,20976.73
+409,Air Purifier Max,Home,29414.64
+410,Bedsheet King Size HD,Home,6554.85
+411,Curtains Set Gold,Home,22799.38
+412,Ceiling Fan Pro,Home,18580.77
+413,Water Purifier RO Premium,Home,35000
+414,Mixer Grinder Pro,Home,12625.82
+415,Iron Box Steam Max,Home,10144.54
+416,Pressure Cooker 5L Smart,Home,5021.45
+417,Sofa 3-Seater HD,Home,7651.13
+418,Dining Table Set Pro,Home,8080.25
+419,Wall Clock Wooden Pro,Home,8562.56
+420,Photo Frame Set Silver,Home,3477.83
+421,Floor Lamp Eco,Home,9567.72
+422,Cricket Bat Kasheer Willow Elite,Sports,15324.65
+423,Football Size 5 Classic,Sports,8948.11
+424,Badminton Racket Set Classic,Sports,8800.11
+425,Yoga Mat Anti-Slip Plus,Sports,13008.48
+426,Dumbbells 5kg Pair Mini,Sports,13176.01
+427,Cycling Helmet HD,Sports,7510.2
+428,Swimming Goggles HD,Sports,2851.54
+429,Treadmill Home Pro,Sports,10417.69
+430,Protein Whey 1kg Pro,Sports,1998.3
+431,Resistance Bands Set Classic,Sports,17079.67
+432,Tennis Racket Max,Sports,14937.57
+433,Skipping Rope Classic,Sports,6698.77
+434,Face Wash Neem Plus,Beauty,768.99
+435,Moisturizer SPF50 Elite,Beauty,612.21
+436,Lipstick Set 6 Premium,Beauty,1493.1
+437,Hair Oil Coconut Deluxe,Beauty,1003.97
+438,Perfume Floral 100ml Premium,Beauty,996.62
+439,Foundation Liquid Pro,Beauty,513.2
+440,Eyeshadow Palette Ultra,Beauty,904.58
+441,Sunscreen SPF70 Gold,Beauty,719.81
+442,Serum Vitamin C Mini,Beauty,1045.03
+443,Shampoo Anti-Dandruff Ultra,Beauty,689.7
+444,Nail Polish Set Ultra,Beauty,2966.2
+445,BB Cream Ultra,Beauty,848.69
+446,Smartphone Smart,Electronics,10197.28
+447,Laptop Classic,Electronics,13918.93
+448,Tablet Lite,Electronics,17816.26
+449,Wireless Earbuds HD,Electronics,7271.15
+450,Bluetooth Speaker Classic,Electronics,29924.97
+451,Smart Watch Mini,Electronics,11766.37
+452,USB-C Hub Plus,Electronics,8387.11
+453,Webcam HD Lite,Electronics,21091.89
+454,Mechanical Keyboard Silver,Electronics,20844.93
+455,Gaming Mouse Mini,Electronics,23178.87
+456,LED Monitor Silver,Electronics,16127.64
+457,Portable SSD Deluxe,Electronics,24048.05
+458,Power Bank 20000mAh Eco,Electronics,8508.88
+459,Smart Bulb Max,Electronics,8097.95
+460,WiFi Router Deluxe,Electronics,19430.15
+461,Action Camera Plus,Electronics,10340.54
+462,DSLR Camera Eco,Electronics,12283.76
+463,Noise Cancelling Headphones Mini,Electronics,7321.88
+464,Smart TV 43inch Eco,Electronics,15724.76
+465,Dash Cam Deluxe,Electronics,17579.94
+466,Men Formal Shirt Deluxe,Fashion,2407.98
+467,Women Kurta Smart,Fashion,6625.04
+468,Denim Jeans Premium,Fashion,1336.23
+469,Sports Sneakers Deluxe,Fashion,4081.05
+470,Leather Belt Max,Fashion,894.38
+471,Silk Saree HD,Fashion,1397.91
+472,Casual T-Shirt Silver,Fashion,8000
+473,Ankle Boots Smart,Fashion,4377.68
+474,Handbag Lite,Fashion,1445.38
+475,Sunglasses Elite,Fashion,823.32
+476,Winter Jacket Ultra,Fashion,3623.15
+477,Yoga Pants Classic,Fashion,2463.28
+478,Formal Trousers Mini,Fashion,1373.2
+479,Cotton Dupatta Max,Fashion,1023.34
+480,Wristwatch Classic Classic,Fashion,2958.27
+481,Basmati Rice 5kg Elite,Grocery,357.43
+482,Toor Dal 1kg Plus,Grocery,892.24
+483,Sunflower Oil 1L Ultra,Grocery,169.34
+484,Amul Butter 500g Max,Grocery,186.68
+485,Organic Honey 500g Deluxe,Grocery,230.16
+486,Green Tea 100bags Classic,Grocery,273.53
+487,Turmeric Powder 200g Smart,Grocery,270.76
+488,Almonds 500g Elite,Grocery,388.88
+489,Oats 1kg Premium,Grocery,172.05
+490,Wheat Flour 10kg Pro,Grocery,115.26
+491,Coconut Oil 1L Lite,Grocery,148.59
+492,Mixed Nuts 250g Eco,Grocery,411.63
+493,Coffee Powder 200g Max,Grocery,505.82
+494,Chickpeas 1kg Max,Grocery,214.95
+495,Dark Chocolate 100g Plus,Grocery,106.36
+496,Non-Stick Cookware Set Premium,Home,5325.84
+497,Vacuum Cleaner HD,Home,16393.04
+498,Air Purifier Eco,Home,7875.4
+499,Bedsheet King Size Elite,Home,6063.11
+500,Curtains Set Smart,Home,7619.13
