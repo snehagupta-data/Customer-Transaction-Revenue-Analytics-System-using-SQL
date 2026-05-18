@@ -15,7 +15,6 @@
 
 
 -- STEP 1: Load customers
--- Update path: 'C:/data/customers.csv' → your actual file location
 COPY customers (customer_id, name, email, city, signup_date)
 FROM 'E:\Data Analyst Projects\Sample Projects\sql-project\Data\customers.csv'
 CSV HEADER;
