@@ -4,7 +4,7 @@
 
 
 -- ============================================================
--- QUERY 18: Best-Selling Products by Units Sold
+-- QUERY 21: Best-Selling Products by Units Sold
 -- Business Question: Which products have the highest
 --                    sales volume?
 -- ============================================================
@@ -24,7 +24,7 @@ LIMIT 15;
 
 
 -- ============================================================
--- QUERY 19: Pareto Analysis — 80/20 Rule
+-- QUERY 22: Pareto Analysis — 80/20 Rule
 -- Business Question: Do 20% of products generate 80% of revenue?
 -- Read: cumulative_pct tells you the revenue share up to and
 --       including that product.
@@ -58,7 +58,7 @@ ORDER BY revenue DESC;
 
 
 -- ============================================================
--- QUERY 30: Product Revenue Ranking Within Category
+-- QUERY 23: Product Revenue Ranking Within Category
 -- Business Question: Which product is top-ranked in each
 --                    category by revenue?
 -- ============================================================

@@ -76,12 +76,12 @@ SELECT
     ROUND(AVG(total_spent), 2)         AS avg_spend_per_customer,
     ROUND(SUM(total_spent), 2)         AS total_segment_revenue
 FROM clv
-GROUP BY 1
+GROUP BY segment
 ORDER BY avg_spend_per_customer DESC;
 
 
 -- ============================================================
--- QUERY 31: Customer Purchase Frequency Bucket
+-- QUERY 18: Customer Purchase Frequency Bucket
 -- Business Question: How are customers distributed by number
 --                    of orders placed?
 -- ============================================================
@@ -107,7 +107,7 @@ ORDER BY customers DESC;
 
 
 -- ============================================================
--- QUERY 32: First vs Most Recent Order — Customer Tenure
+-- QUERY 19: First vs Most Recent Order — Customer Tenure
 -- Business Question: How long between a customer's first and
 --                    most recent purchase?
 -- ============================================================
@@ -126,7 +126,7 @@ ORDER BY days_active DESC;
 
 
 -- ============================================================
--- QUERY 34: Churned / Never-Ordered Customers
+-- QUERY 20: Churned / Never-Ordered Customers
 -- Business Question: Which customers signed up but never
 --                    made a purchase?
 -- ============================================================

@@ -4,7 +4,7 @@
 
 
 -- ============================================================
--- QUERY 25: Customer Revenue Ranking
+-- QUERY 30: Customer Revenue Ranking
 -- Business Question: Who are the top customers ranked by spend?
 -- ============================================================
 
@@ -23,7 +23,7 @@ ORDER BY revenue_rank;
 
 
 -- ============================================================
--- QUERY 26: Running Total Revenue
+-- QUERY 31: Running Total Revenue
 -- Business Question: What does the cumulative revenue look
 --                    like over time?
 -- ============================================================
@@ -40,7 +40,7 @@ ORDER BY month;
 
 
 -- ============================================================
--- QUERY 27: 3-Month Moving Average Revenue
+-- QUERY 32: 3-Month Moving Average Revenue
 -- Business Question: What is the smoothed revenue trend,
 --                    eliminating month-to-month noise?
 -- ============================================================
@@ -66,7 +66,7 @@ ORDER BY month;
 
 
 -- ============================================================
--- QUERY 28: Month-over-Month Revenue Growth
+-- QUERY 33: Month-over-Month Revenue Growth
 -- Business Question: What is the percentage revenue change
 --                    each month vs the prior month?
 -- ============================================================
@@ -91,7 +91,7 @@ ORDER BY month;
 
 
 -- ============================================================
--- QUERY 29: Cohort Analysis — Customer Retention by Signup Month
+-- QUERY 34: Cohort Analysis — Customer Retention by Signup Month
 -- Business Question: What percentage of customers from each
 --                    signup cohort return to purchase over time?
 -- ============================================================

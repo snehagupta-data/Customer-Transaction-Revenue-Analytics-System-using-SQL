@@ -4,7 +4,7 @@
 
 
 -- ============================================================
--- QUERY 20: Average Order Value (AOV) by Month
+-- QUERY 24: Average Order Value (AOV) by Month
 -- Business Question: Is the average basket size growing over
 --                    time? Are upselling efforts working?
 -- ============================================================
@@ -20,7 +20,7 @@ ORDER BY month;
 
 
 -- ============================================================
--- QUERY 21: Peak Order Periods — Day of Week
+-- QUERY 25: Peak Order Periods — Day of Week
 -- Business Question: On which days of the week do customers
 --                    shop most?
 -- ============================================================
@@ -37,7 +37,7 @@ ORDER BY dow_num;
 
 
 -- ============================================================
--- QUERY 33: Year-over-Year Revenue Comparison
+-- QUERY 26: Year-over-Year Revenue Comparison
 -- Business Question: How does annual revenue compare across
 --                    years?
 -- ============================================================

@@ -4,7 +4,7 @@
 
 
 -- ============================================================
--- QUERY 22: Payment Method Distribution
+-- QUERY 27: Payment Method Distribution
 -- Business Question: Which payment methods are most popular,
 --                    and how much revenue does each drive?
 -- ============================================================
@@ -21,7 +21,7 @@ ORDER BY total_transactions DESC;
 
 
 -- ============================================================
--- QUERY 23: Payment Success vs Failure Rate
+-- QUERY 28: Payment Success vs Failure Rate
 -- Business Question: What percentage of transactions fail,
 --                    are pending, or are refunded?
 -- ============================================================
@@ -36,7 +36,7 @@ ORDER BY transaction_count DESC;
 
 
 -- ============================================================
--- QUERY 24: Failed Transactions — Revenue at Risk
+-- QUERY 29: Failed Transactions — Revenue at Risk
 -- Business Question: How much potential revenue was lost
 --                    by payment method due to failures?
 -- ============================================================
